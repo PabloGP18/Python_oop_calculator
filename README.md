@@ -4,7 +4,7 @@ This project implements a simple calculator using object-oriented programming (O
 
 ## Motivation
 
-The main motivation behind this project was to enhance my Python and OOP skills. I have been learning Python for 2 weeks and wanted to implement a practical project to apply and reinforce the concepts I've learned. A classmate mentioned he had learned a lot from creating a calculator using OOP, and it sounded like a great exercise to me as well.
+The main motivation behind this project was to enhance my Python and OOP skills. I have been learning Python for 2 weeks and wanted to implement a practical project to apply and reinforce the concepts I've learned. A classmate once mentioned he had learned a lot from creating a calculator using OOP, and it sounded like a great exercise to me as well.
 
 ## Classes Overview
 
